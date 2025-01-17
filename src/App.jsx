@@ -33,7 +33,7 @@ const LandingPage = ({ showWelcome, setShowWelcome }) => {
                   138st, Sangkat Teuk Thla, Khan Sensok, Phnom Penh
               </span>
               <a href="https://t.me/Pha_Rie" className="block text-sm pb-4 text-gray-500 text-center dark:text-gray-400">
-                  Phone: 0979534329
+                  Phone: +(855)979534329
               </a>
               <a href="tansophary@gmail.com" className="block text-sm pb-4 text-gray-500 text-center dark:text-gray-400">
                   Email: tansophary@gmail.comm
