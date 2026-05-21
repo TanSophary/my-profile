@@ -54,10 +54,10 @@ const ProjectPageLayout = () => (
         <hr className="my-3 border-gray-400 opacity-15 sm:mx-auto lg:my-6 text-center" />
         <h1 className="Get text-xl pb-5 text-gray-500 text-center dark:text-gray-400">Get In Touch</h1>
         <span className="block text-sm pb-4 text-gray-500 text-center dark:text-gray-400">
-          138st, Sangkat Teuk Thla, Khan Sensok, Phnom Penh
+          Address: 138st, Sangkat Teuk Thla, Khan Sensok, Phnom Penh
         </span>
         <a href="https://t.me/Pha_Rie" className="block text-sm pb-4 text-gray-500 text-center dark:text-gray-400">
-          Phone: 0979534329
+          Phone: +(855)0979534329
         </a>
         <a href="tansophary@gmail.com" className="block text-sm pb-4 text-gray-500 text-center dark:text-gray-400">
           Email: tansophary@gmail.com
